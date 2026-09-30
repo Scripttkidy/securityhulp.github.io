@@ -1,2 +1,0 @@
-# securityhulp.github.io
-Site
